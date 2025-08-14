@@ -1,0 +1,8 @@
+File: roomshieldprotocol_declaration_p1.jpeg
+SHA-256: 2879d44335c8b99d7346da3c63a654af9b269b793840d131c64bfab5ae629106
+
+File: roomshieldprotocol_declaration_p2.jpeg
+SHA-256: 493f578b903b140b98c9f3bdf00826d145808093aa2a58c41805916a46e241d9
+
+File: roomshieldprotocol_logo.jpeg
+SHA-256: 30f2c9c911ab36f0a6cf38043efcf3b890622c7b7f159836a663a766c8420bdb
